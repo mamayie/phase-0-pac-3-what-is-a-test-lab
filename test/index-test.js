@@ -5,7 +5,7 @@ describe("what-is-a-test", () => {
     it('returns "Susan"', () => {
       expect(name).toEqual("Susan");
     });
-  });
+  }); 
 
   describe("Height", () => {
     it("is less than 40", () => {
